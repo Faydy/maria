@@ -5,6 +5,7 @@ html{
     padding: 0;
 }
 body{
+    -webkit-text-size-adjust: none;
     background-color: #F2B6C6;
     font-family: "Protest Revolution", sans-serif;
     font-weight: 400;
