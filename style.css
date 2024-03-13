@@ -101,8 +101,8 @@ p{
     }
     .img{
         margin-top: 200px;
-        max-width:300px;
-        height:max-content;
+        max-width:80%;
+        height:auto;
         margin-left: auto;
         margin-right: auto;
     }
