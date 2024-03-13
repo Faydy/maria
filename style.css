@@ -90,9 +90,11 @@ p{
     }
     .love{
         flex-direction: column;
+        z-index: -1;
     }
     .descriere{
         width: 100%;
+        z-index: -1;
         padding: 0;
         justify-content: center;
     }
